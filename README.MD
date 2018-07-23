@@ -1,5 +1,5 @@
 
-# Simple Setup of a Python Web App using Flask Framework 
+# Getting Started with Python Web App using Flask Framework 
 
 ## To setup
 `pip install flask`
